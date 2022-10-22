@@ -8,7 +8,7 @@ The purpose of this analysis was to figure out the number of employees that woul
 * We do not have enough people in the mentorship program to sustain
 ## Summary 
 According to the data we will need 25916 Senior Engineers, 24926 Senior Staff, 9285 Engineers, 7636 Staff, 3603 Technique Leaders, 1090 Assistant Engineers, and 2 Managers to completely fill the potential vacant spot due to the siler tsunami. In terms of ready mentors we are lacking in that department as we only have a couple hundred eligible employees to be in that service. This is not as bad for other positions, but it detrimental to positions like Senior Engineers and Senior Staff which have tens of thousands of potential retirees. The Manager position will be the least affected as that position will only lose about 22% of current employees while every other postion will lose about 30% of their workforce.
-Tables supporthing this are labeled: 
+Tables supporting this are labeled: 
 * mentorship_count 
 * retirement_titles_current
 
